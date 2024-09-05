@@ -9,10 +9,9 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2026.",
     "location": { "address": "", "postalCode": "96792", "city": "Waianae", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "KyleAipoalani", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "KyleAipoalani", "url": "https://github.com/KyleAipoalani" },
       { "network": "linkedin", "username": "Kyle Aipoalani", "url": "https://www.linkedin.com/in/kyle-aipoalani-4438ba325/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "email", "username": "kyleka9", "url": "kyleka9@hawaii.edu" },
     ]
   },
   "interests": [
@@ -44,11 +43,11 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Kumon institute of Education Co. Ltd.",
+      "position": "Kumon tutor/assistant",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "startDate": "2022-08",
+      "endDate": "2022-12",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
