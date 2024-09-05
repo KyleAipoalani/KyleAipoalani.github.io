@@ -12,18 +12,9 @@ summary: "A simple rock paper scissors game"
 ---
 
 
-### introduction to the game
-rock, paper, scissors is a game where two players (preferably in-person) each choose between various hand shapes: rock, paper, and scissors.
-Their choices will be simultaneously shown at once, and depending on which hand beats the other, either one player wins or no one wins in a draw. 
-```
-<-------RULES----------->
-* PAPER beats ROCK
-* ROCK beats SCISSORS 
-* SCISSORS beats PAPER
-* duplicate hands = draw
-<----------------------->
-```
-### how the game works
+This game was originally going to be made in Java with Swing but I already had a significant project utilizing Swing, so I wanted to test my knowledge in C so I decided to make this simple command-line game. This project deepened my knowledge in the language.
+
+### key features
 This is a simple command-line game in C. 
 The user will play against the computer using a random number generator to act as the computer's choice. 
 It can be played multiple times in a single session with an option to either keep playing or quit after each match.
@@ -34,6 +25,14 @@ And at the end of the session, the program will print the final scores and a sma
 The game also has two input buffers where it will only read the first character of the input to take into the count some input errors such as misreading the instruction by typing the full words or misspelling.
 So only the first character will be read. 
 
+```
+<-------RULES----------->
+* PAPER beats ROCK
+* ROCK beats SCISSORS 
+* SCISSORS beats PAPER
+* duplicate hands = draw
+<----------------------->
+```
 ### excerpt from one session:
 ```
 =========match#1=========
