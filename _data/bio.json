@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows 10", "Windows 11", "Git/GitHub", "Steam" ]
+      "keywords": [ "Windows 10", "Windows 11", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -48,10 +48,10 @@
       "website": "",
       "startDate": "2022-08",
       "endDate": "2022-12",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "providing academic assistance to elementary-grade student with basic math and english",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developing a deeper understanding of foundational academic curriculum",
+        "Improving communication skills, teaching skills, and patience"
       ]
     },
     {
