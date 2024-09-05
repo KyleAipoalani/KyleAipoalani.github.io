@@ -12,7 +12,7 @@ summary: "A simple rock paper scissors game"
 ---
 
 
-This game was originally going to be made in Java with Swing but I already had a significant project utilizing Swing, so I wanted to test my knowledge in C so I decided to make this simple command-line game. This project deepened my knowledge in the language.
+This game was originally going to be made in Java with Swing but I already had a significant project utilizing Swing, so I wanted to test my knowledge in C by making this simple command-line game. This project deepened my knowledge in the language after only learning C for a semester and got me more comfortable with the differing syntax from java.
 
 ### key features
 This is a simple command-line game in C. 
