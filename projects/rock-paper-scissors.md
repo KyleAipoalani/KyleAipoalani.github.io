@@ -11,6 +11,7 @@ labels:
 summary: "A simple rock paper scissors game"
 ---
 
+![Screenshot 2024-09-05 111501](https://github.com/user-attachments/assets/178748d4-9c76-4f50-b83b-f1bfb2b47eec)
 
 This game was originally going to be made in Java with Swing but I already had a significant project utilizing Swing, so I wanted to test my knowledge in C by making this simple command-line game. This project deepened my knowledge in the language after only learning C for a semester and got me more comfortable with the differing syntax from java.
 
