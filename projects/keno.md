@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/keno.png
 title: "Keno"
 date: 2022
 published: true
