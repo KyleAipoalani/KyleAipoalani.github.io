@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/rps.png
 title: "Rock Paper Scissors"
 date: 2023
 published: true
