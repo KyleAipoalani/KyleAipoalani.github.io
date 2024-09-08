@@ -8,6 +8,7 @@ published: true
 labels:
   - Java
   - Game
+  - GUI
 summary: "Keno betting game utilizing Java Swing."
 ---
 ### introduction
