@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/rps.png
+image: img/pc.jpg
 title: "PC Building"
 date: 2020
 published: true
