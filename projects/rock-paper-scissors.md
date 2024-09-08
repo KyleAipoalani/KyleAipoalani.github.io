@@ -7,7 +7,8 @@ date: 2023
 published: true
 labels:
   - C
-  - command-line game
+  - Command-line
+  - Game
 summary: "A simple rock paper scissors game"
 ---
 
