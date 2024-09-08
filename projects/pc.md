@@ -6,11 +6,10 @@ title: "PC Building"
 date: 2020
 published: true
 labels:
-  - PC 
-  - Robotics
-summary: "Experience that I've earned from learning how to build a PC"
+  - Computers
+  - Hardware
+summary: "Experiences that I've learned from the intricacies of building a PC"
 ---
-
 
 ![pc-in](https://github.com/user-attachments/assets/d39481b1-dd65-4790-9414-72893f920e70)
 
