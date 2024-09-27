@@ -10,6 +10,7 @@ labels:
   - VSCode
   - Reflection
 ---
+![whycsmatter](https://github.com/user-attachments/assets/8b46df01-3423-4355-9e9b-ec8df117f0e3)
 
 ### Importance of Coding Standards
   One of the biggest reasons coding standards are so important is that they promote consistency and clarity across entire programs. For instance in larger projects, multiple developers may work on the same files or modules, and without a uniform set of rules, the code can quickly become a mess of conflicting styles. Individuals on a team will write code their own unique ways, leading to inconsistencies that make the code harder to read, maintain, and debug. Consistency ensures that anyone can step into a project and understand the structure of the code without having to decipher individual quirks or habits. This not only makes collaboration easier but also helps when debugging and/or scaling the project over time. Coding standards also promote best practices by encouraging the use of clear variable names and efficient logic, which helps prevent common errors. They also contribute to improved performance and scalability, both of which are essential for the long-term success of any kind of software. At the end of the day, coding standards make it easier to work collaboratively, maintain high-quality code, and streamline development processes, which is why they are so important in any software engineering environment.
