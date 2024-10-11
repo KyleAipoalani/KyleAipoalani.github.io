@@ -10,8 +10,7 @@ labels:
   - CSS
   - Bootstrap 
 ---
-![webdev](https://github.com/user-attachments/assets/d4c88c9c-7443-4eaa-986d-42f5783448b0)
-
+![webdev](https://github.com/user-attachments/assets/e1ba4f99-480b-4c98-a3e8-df083eb8ec07)
 
 ### Introduction to UI frameworks
 HTML (HyperText Markup Language) is the standard foundational language used to create structures of webpages. It allows developers to define the organization of content on a page by using elements like headings, paragraphs, links, and images. In HTML, developers use tags like < html >, < body >, < p >, to separate the code into different sections, helping browsers understand how to display the content. Some things that HTML can do is to be able to allow navigation between different web pages through hyperlinks, and embedding things like images, audio. And video. 
