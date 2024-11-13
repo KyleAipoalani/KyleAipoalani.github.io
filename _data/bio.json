@@ -14,19 +14,18 @@
     ]
   },
   "interests": [
-    { "name": "Video game development" },
+    { "name": "Video games/ Video game development" },
     { "name": "Software development" },
-    { "name": "Cybersecurity" },
     { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "Javascript" ]
+      "keywords": [ "C", "Java", "Javascript", "Typescript", "HTML", "NextJS", "React", "Bootstrap" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows 10", "Windows 11", "Git/GitHub" ]
+      "keywords": [ "Windows 10 OS", "Windows 11 OS", "Git/GitHub", "Visual Studio Code", "Eclipse IDE" ]
     }
   ],
   "education": [
