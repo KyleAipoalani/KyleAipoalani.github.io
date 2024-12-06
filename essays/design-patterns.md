@@ -10,13 +10,18 @@ labels:
   - Reflection
 ---
 
-## Building Blocks of Software: What Are Design Patterns? ##
-Imagine you’re building with LEGO bricks. Over time, you discover the best ways to create certain structures—like sturdy bridges or tall towers—that can be reused in many models. These reusable methods save time and ensure that your designs are solid. In software development, design patterns work the same way. They’re established solutions to problems that developers encounter repeatedly, making it easier to create reliable and efficient programs.
+## Building Blocks of Software: Design Patterns ##
 
-#### What Are Design Patterns? ####
-Design patterns are like blueprints for solving common coding challenges. They aren’t specific pieces of code but general ideas that guide how you structure your program. For example, if you need a way to manage how different parts of your program communicate, there’s a pattern for that. If you want to ensure that an object is created only once, there’s another pattern for that.
+#### What are Design Patterns? ####
+<img src="https://github.com/user-attachments/assets/42dfb267-6ad1-46dc-9a24-6271d3fde4fb" alt="LEGO-recycled-bricks" style="width:50%; height:auto;">
+
+Imagine you’re building with LEGO bricks. Over time, you discover the best ways to create certain structures, like sturdy bridges or tall towers, that can be reused in many models. These reusable methods save time and ensure that your designs are solid. 
+
+In software development, design patterns work the same way as they’re like blueprints/references for solving common coding challenges. While they aren’t specific pieces of code, they provide general ideas that guide how you structure your program. For instance, if you need a way to manage how different parts of your program communicate, there’s a pattern for that. If you want to ensure that an object is created only once, there’s another pattern for that. Recognizing patterns is essential for programmers in order to be efficient and consistent enough in the workspace.  
 
 These patterns are grouped into three main types. One group helps with creating objects in organized ways, another focuses on how those objects are structured, and the last one deals with how objects interact with each other. Together, they offer a toolkit for writing clear and maintainable code.
+
+<img src="https://github.com/user-attachments/assets/f3fc5df5-c1ba-4ab9-81f9-a69b06c538b8" alt="Design-Patterns-A-Key-to-High-Performance-Software-Development" style="width:50%; height:auto;">
 
 #### How I’ve Used Design Patterns ####
 When building a student management system, I encountered challenges in both creating and processing objects. Design patterns provided elegant solutions.
@@ -34,3 +39,5 @@ Beyond the technical benefits, design patterns also make it easier to communicat
 
 #### Conclusion ####
   Design patterns are a powerful tool for writing better code. They save time, prevent mistakes, and make your programs easier to understand and maintain. Whether it’s managing resources, organizing updates, or switching between behaviors, patterns offer solutions that work. Learning to use them has been one of the most valuable parts of my coding journey, and I’m glad to have them as part of my toolkit.
+
+note: I used AI to aid me in checking for grammar issues and providing insight into what design patterns are
